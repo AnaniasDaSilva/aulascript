@@ -1,0 +1,6 @@
+O que é o ANGULAR?- È um framework baseado em typescript para desenvolvimento web (HTML,CSS,typescript)
+site oficial:https://angular.io/
+Oque é um framework? - é uma caixa de ferramentas para desenvolvimento web
+
+oque é um SPA (Single Page Aplication)? É a a plicção de uma única página .
+-> Trabalha como um porta retrato onde vc troca somente a foto e mantém a moldura.
